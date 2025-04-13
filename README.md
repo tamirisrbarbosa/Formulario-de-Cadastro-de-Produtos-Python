@@ -60,7 +60,7 @@ Projeto simples, feito pra praticar e mostrar um pouco do que tô aprendendo na 
 ---
 
 ## 💁‍♀️ Sobre mim
-Oi! Eu sou a Iris (Tamiris Barbosa) e tô em transição de carreira pra área de desenvolvimento. Ainda no começo, mas super animada em aprender e colocar a mão na massa. Esse é um dos projetos que criei pra praticar automações com Python e organizar melhor o que tô estudando.
+Oi! Eu sou a Iris (Tamiris Barbosa) e estou em transição de carreira para área de desenvolvimento. 
 
 Se quiser trocar ideia sobre programação ou tecnologia, bora conversar! 🤝
 
