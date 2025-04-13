@@ -18,10 +18,11 @@ Esse projeto simula o cadastro automático de produtos em um sistema web, usando
 ## 🧩 Arquivos do projeto
 
 📂automacao-cadastro-produtos
+```bash
 ├── codigo.py # Script principal da automação
 ├── posicao.py # Ajuda a pegar as coordenadas da tela
 ├── produtos.csv # Arquivo com os dados dos produtos
-
+```
 
 ---
 
@@ -49,7 +50,7 @@ Esse projeto simula o cadastro automático de produtos em um sistema web, usando
 
 ---
 
-📋 Observações
+## 📋 Observações
 O site usado é o do Intensivão de Python da Hashtag Treinamentos, só pra fins de estudo mesmo.
 
 Os dados do CSV são fictícios.
@@ -58,7 +59,7 @@ Projeto simples, feito pra praticar e mostrar um pouco do que tô aprendendo na 
 
 ---
 
-💁‍♀️ Sobre mim
+## 💁‍♀️ Sobre mim
 Oi! Eu sou a Iris (Tamiris Barbosa) e tô em transição de carreira pra área de desenvolvimento. Ainda no começo, mas super animada em aprender e colocar a mão na massa. Esse é um dos projetos que criei pra praticar automações com Python e organizar melhor o que tô estudando.
 
 Se quiser trocar ideia sobre programação ou tecnologia, bora conversar! 🤝
