@@ -35,20 +35,6 @@ Esse projeto simula o cadastro automático de produtos em um sistema web, usando
 
 ---
 
-## ⚙️ Como usar
-
-1. Instala as bibliotecas que vão ser usadas:
-  pip install pyautogui pandas
-
-2. Confere se as posições dos cliques e campos no navegador batem com o que tá no código. Se não bater, roda o posicao.py pra descobrir os pontos certos da sua tela.
-   
-3. Roda o script principal:
-   python codigo.py
-
-🚨 Dica: não maximize a janela do navegador, senão as coordenadas podem mudar!
-
----
-
 ## 📋 Observações
 O site usado é o do Intensivão de Python da Hashtag Treinamentos, para fins de estudo.
 
